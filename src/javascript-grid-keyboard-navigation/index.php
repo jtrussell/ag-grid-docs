@@ -46,7 +46,7 @@ include '../documentation-main/documentation_header.php';
     <h4>Selection</h4>
 
     <p>
-        Pressing the Space key on a cell will select the cells row, or deselect the row if already selected.
+        Pressing the Space key on a cell will select the cell's row, or deselect the row if already selected.
         If multi-select is enabled, then the selection will not remove any previous selections.
     </p>
 
